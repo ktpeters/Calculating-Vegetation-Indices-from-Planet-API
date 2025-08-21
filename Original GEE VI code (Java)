@@ -1,3 +1,4 @@
+#Earth Engine’s JavaScript API runs on Node.js.
 git clone https://earthengine.googlesource.com/users/IndianProject/test
 
 /**** Start of imports. If edited, may not auto-convert in the playground. ****/
